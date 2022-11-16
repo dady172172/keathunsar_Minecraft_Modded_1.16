@@ -225,7 +225,7 @@ ZeroCore2-1.16.4-2.0.19.jar</br>
 - Download the zip and import into the CurseForge(Overwolf) or MultiMC.
 
 ### Info
-- My server address is already in the pack. No need to add it.
+- ~~My server address is already in the pack. No need to add it.~~
 
 ## Server
 
